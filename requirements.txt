@@ -1,0 +1,5 @@
+streamlit
+pygame
+pyht # Use an available version of pyht
+pydub==0.25.1
+groq
